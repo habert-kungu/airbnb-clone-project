@@ -140,10 +140,6 @@ This project is licensed under **MIT**.
 
 ## **📬 Contact**  
 For questions or feedback, reach out at:  
-📧 **your-email@example.com**  
+📧 **habert231@gmail.com**  
 
 ---
-
-**Happy Coding! 🚀**  
-
-Would you like any modifications (e.g., adding a deployment guide, API docs, or testing details)? 😊
