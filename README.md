@@ -63,7 +63,7 @@ This project  simulates a real-world production system by integrating modern too
 
 <details>
 <summary>This is the Entity Relationship Diagram </summary>
-<summary>Paste this in <[Eraser.io](https://app.eraser.io/)  </summary>
+[Eraser.io](https://app.eraser.io/)
 
 ```
 // pk == primary key
